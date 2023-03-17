@@ -1,4 +1,4 @@
 # My React Tools
 
 ## List
-- Debounce Input
+- Debounced Input
